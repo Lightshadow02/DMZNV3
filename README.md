@@ -6,5 +6,5 @@ Dans ce travail pratique, nous explorerons la mise en place d'une DMZ à plusieu
 Nous aborderons les principes de segmentation du réseau, les différentes architectures de DMZ et les meilleures pratiques de configuration. À travers des exercices pratiques, nous illustrerons comment concevoir et déployer efficacement des DMZ pour renforcer la sécurité des infrastructures informatiques.
 
 
-![Image]([https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/799px-PfSense_logo.png])
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/799px-PfSense_logo.png)
         
